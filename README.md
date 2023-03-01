@@ -1,1 +1,1 @@
-# ASOnlineSAMLWebApp
+# Sample .NETMVC SAML WebApp
